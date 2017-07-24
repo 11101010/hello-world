@@ -1,3 +1,6 @@
 Two people will modify the line below this one :
 
-This is the edit the first person made to the line
+This is the edit the first person made to the line.
+This is the edit the second person made to the line.
+
+This is the result of merge conflict resolution.
